@@ -1,0 +1,32 @@
+
+#heading1{
+    color: white;
+    background-color: black;
+font-style: italic;
+
+}
+body{
+    background-image: url(./images/background\ photo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: centre;
+    min-height: 100vh;
+}
+.Text1 {
+    color:red;
+    background-color: black
+}
+.Text2 {
+    
+    color:red;
+    background-color: black
+    
+
+}
+img{
+    border: 100px;
+}
+#heading2{
+    color: white;
+    background-color: red;
+}
